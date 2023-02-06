@@ -1,1 +1,1 @@
- # Beat-mod... Download files and then extract the zip it has the mod install and loader.
+ # Beat-mod... Download zip mainand then extract the zip it has the mod install and loader.
